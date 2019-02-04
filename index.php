@@ -4,7 +4,7 @@
 <body>
 
 <?php
-$age=array("Peter"=>"35","Ben"=>"37","Joe"=>"43");
+$age=array("Franz"=>"21","John"=>"23","Paul"=>"24");
 
 foreach($age as $x=>$x_value)
   {
